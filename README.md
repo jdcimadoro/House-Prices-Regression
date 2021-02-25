@@ -1,12 +1,7 @@
-# House-Prices-Regression
-Predict sales prices and practice feature engineering, RFs, and gradient boosting - Kaggle 
+# Real State - House Prices Prediction
 
-Ask a home buyer to describe their dream house, and they probably won't begin with the height of the basement ceiling or the proximity to an east-west railroad. But this playground competition's dataset proves that much more influences price negotiations than the number of bedrooms or a white-picket fence.
+This project involves the development of a tool for predicting houses's public prices , using a dataset with 79 explanatory features describing (almost) every aspect of residential homes in Ames, Iowa.
 
-With 79 explanatory variables describing (almost) every aspect of residential homes in Ames, Iowa, this competition challenges you to predict the final price of each home.
+The Ames Housing dataset was compiled by Dean DeCock for use in data science.
 
-Practice Skills
-Creative feature engineering 
-Advanced regression techniques like random forest and gradient boosting
-Acknowledgments
-The Ames Housing dataset was compiled by Dean De Cock for use in data science education. It's an incredible alternative for data scientists looking for a modernized and expanded version of the often cited Boston Housing dataset.
+This solution was created by Jonathan Cimadoro to submit to "Predict sales prices", the Kaggle competition, and reached to be beetween the 1% higher score of the competition.
