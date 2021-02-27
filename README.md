@@ -1,4 +1,4 @@
-# Real State - House Prices Prediction
+# Real Estate - House Prices Prediction
 
 This project involves the development of a tool for predicting houses's public prices , using a dataset with 79 explanatory features describing (almost) every aspect of residential homes in Ames, Iowa.
 
